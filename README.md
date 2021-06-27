@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MyatThwin
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development fundamental.
-- 💞️ I’m looking to collaborate on MMS IT.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
